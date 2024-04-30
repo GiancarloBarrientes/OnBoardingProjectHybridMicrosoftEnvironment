@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestDomain>
+  <Departments>
+  <Department Name="Development">
+    <Location Name="SOHO"/>
+  </Department> 
+  <Department Name="HR">
+    <Location Name="SOHO"/>
+  </Department>
+  <Department Name="IT">
+    <Location Name="SOHO"/>
+  </Department>
+  <Department Name="Finance">
+    <Location Name="SOHO"/>
+  </Department> 
+  <Department Name="Sales">
+    <Location Name="SOHO"/>
+  </Department> 
+  <Departments/>
+</TestDomain>
