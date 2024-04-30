@@ -3,10 +3,8 @@
 
 
 Item needed for the script to work:
-On-prem:
-Domain Controller
-Azure Directory Sync server
 
-Cloud:
-Azure/M365 Cloud tenant
+On-prem:Domain Controller, Azure Directory Sync server
+
+Cloud: Azure/M365 Cloud tenant
 
